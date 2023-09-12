@@ -3,33 +3,34 @@
 
 
 **Requirements to pass:**
-«B1» Znaczniki HTML strony Studio są wpisywane w pliku index.html.
 
-«B2» Wykonane są znaczniki HTML wszystkich elementów układu.
+`1`  Znaczniki HTML strony Studio są wpisywane w pliku index.html.
 
-«B3» Tagi są używane zgodnie z ich znaczeniem semantycznym.
+`2`  Wykonane są znaczniki HTML wszystkich elementów układu.
 
-«B4» HTML jest weryfikowany przez walidator bez błędów.
+`3`  Tagi są używane zgodnie z ich znaczeniem semantycznym.
 
-«B5» Znaczniki HTML zawierają tagi do podkreślania głównej struktury strony: <header>, <main> i <footer>.
+`4`  HTML jest weryfikowany przez walidator bez błędów.
 
-«B6» Logo w <header> i stopce to link z tekstem, a nie obraz.
+`5`  Znaczniki HTML zawierają tagi do podkreślania głównej struktury strony: `<header>`, `<main>` i `<footer>`.
 
-«B7» Tag <nav> został użyty raz na stronie - w <header>.
+`6`  Logo w `<header>` i stopce to link z tekstem, a nie obraz.
 
-«B8» Kontakty w <header> (poczta i telefon) znajdują się poza tagiem <nav>.
+`7`  Tag `<nav>` został użyty raz na stronie - w `<header>`.
 
-«B9» Tag <h1> został użyty jeden raz na stronie
+`8`  Kontakty w `<header>` (poczta i telefon) znajdują się poza tagiem `<nav>`.
 
-«B10» Element z tekstem "Order Service" - to przycisk z type="button".
+`9`  Tag `<h1>` został użyty jeden raz na stronie
 
-«B11» Nagłówki sekcji są oznaczone tagiem <h2>.
+`10`  Element z tekstem "Order Service" - to przycisk z type="button".
 
-«B12» Tagi <img> mają atrybuty wymiarów, co najmniej width i height.
+`11`  Nagłówki sekcji są oznaczone tagiem `<h2>`.
 
-«B13» Tagi <img> mają atrybut alt, który jest wypełniony krótkim opisem tego, co jest pokazane na obrazku.
+`12`  Tagi <img> mają atrybuty wymiarów, co najmniej width i height.
 
-«B14» Obrazy wyeksportowane z układu w formacie jpg.
+`13`  Tagi <img> mają atrybut alt, który jest wypełniony krótkim opisem tego, co jest pokazane na obrazku.
 
-«B15» Grupy elementów tego samego typu są gromadzone na listach <ul>.
+`14`  Obrazy wyeksportowane z układu w formacie jpg.
+
+`15`  Grupy elementów tego samego typu są gromadzone na listach `<ul>`.
 
