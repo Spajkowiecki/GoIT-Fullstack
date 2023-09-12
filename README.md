@@ -1,6 +1,7 @@
 # Fullstack GOIT-Education
 **Homework: 1**
 
+Scope of the task: HTML
 
 **Requirements to pass:**
 
