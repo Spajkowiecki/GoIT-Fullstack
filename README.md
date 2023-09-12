@@ -4,33 +4,33 @@
 
 **Requirements to pass:**
 
-`1`  Znaczniki HTML strony Studio są wpisywane w pliku index.html.
+`1` HTML tags for the Studio page are inserted in the index.html file.
 
-`2`  Wykonane są znaczniki HTML wszystkich elementów układu.
+`2` HTML tags for all layout elements are implemented.
 
-`3`  Tagi są używane zgodnie z ich znaczeniem semantycznym.
+`3` Tags are used according to their semantic meaning.
 
-`4`  HTML jest weryfikowany przez walidator bez błędów.
+`4` HTML is validated by the validator without errors.
 
-`5`  Znaczniki HTML zawierają tagi do podkreślania głównej struktury strony: `<header>`, `<main>` i `<footer>`.
+`5` HTML tags include tags for highlighting the main structure of the page: `<header>`, `<main>`, and `<footer>`.
 
-`6`  Logo w `<header>` i stopce to link z tekstem, a nie obraz.
+`6` The logo in `<header>` and the footer is a text link, not an image.
 
-`7`  Tag `<nav>` został użyty raz na stronie - w `<header>`.
+`7` The `<nav>` tag is used once on the page - in the `<header>`.
 
-`8`  Kontakty w `<header>` (poczta i telefon) znajdują się poza tagiem `<nav>`.
+`8` Contacts in the `<header>` (email and phone) are outside the `<nav>` tag.
 
-`9`  Tag `<h1>` został użyty jeden raz na stronie
+`9` The `<h1>` tag is used only once on the page.
 
-`10`  Element z tekstem "Order Service" - to przycisk z type="button".
+`10` The element with the text "Order Service" is a button with type="button".
 
-`11`  Nagłówki sekcji są oznaczone tagiem `<h2>`.
+`11` Section headers are marked with the `<h2>` tag.
 
-`12`  Tagi <img> mają atrybuty wymiarów, co najmniej width i height.
+`12` `<img>` tags have dimension attributes, at least width and height.
 
-`13`  Tagi <img> mają atrybut alt, który jest wypełniony krótkim opisem tego, co jest pokazane na obrazku.
+`13` `<img>` tags have an alt attribute filled with a brief description of what is shown in the image.
 
-`14`  Obrazy wyeksportowane z układu w formacie jpg.
+`14` Images exported from the layout are in jpg format.
 
-`15`  Grupy elementów tego samego typu są gromadzone na listach `<ul>`.
+`15` Groups of elements of the same type are grouped in `<ul>` lists.
 
